@@ -86,7 +86,11 @@ export default function Home() {
       </section>
 
       <footer className="mt-20 border-t border-white/10 pt-6 text-center text-xs text-white/40">
-        VIRAL · Análise de Instagram · Feito para creators e pequenos negócios.
+        <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2">
+          <span>VIRAL · Análise de Instagram</span>
+          <a href="/privacidade" className="hover:text-white/70">Política de Privacidade</a>
+          <a href="/exclusao-de-dados" className="hover:text-white/70">Exclusão de Dados</a>
+        </div>
       </footer>
     </main>
   );
