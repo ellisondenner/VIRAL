@@ -1,0 +1,13 @@
+{
+  "id": "agenda-01",
+  "titulo_capa": "3 sinais de que você aceita encomendas demais",
+  "cenas": [
+    { "tipo": "gancho", "texto": "Agenda lotada não é sinal de sucesso se você termina a semana sem dormir.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "Sinal 1: você vira a noite", "apoio": "Se toda sexta termina de madrugada, sua capacidade já passou do limite.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "Sinal 2: a qualidade cai", "apoio": "Acabamento corrido e erros no pedido aparecem quando falta tempo.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "Sinal 3: o lucro não cresce", "apoio": "Mais pedidos com o mesmo dinheiro no fim do mês é preço baixo, não demanda.", "duracao": 4.5 },
+    { "tipo": "desenvolvimento", "texto": "Defina seu limite", "apoio": "Conte as horas reais de cada bolo e veja quantos cabem na sua semana.", "duracao": 4 },
+    { "tipo": "chamada", "texto": "Siga o perfil para a parte 2 sobre agenda", "duracao": 3.5 }
+  ],
+  "legenda": "Dizer \"sim\" para tudo também tem custo. ⏰\n\n3 sinais de que você passou do limite:\n1. Vira a noite toda semana\n2. A qualidade do acabamento cai\n3. O lucro do mês não acompanha o número de pedidos\n\nNa parte 2 eu mostro como montar a sua agenda semanal. Siga o perfil para não perder.\n\n#confeitaria #organizacao #confeiteira #gestaodotempo #empreendedorismofeminino"
+}

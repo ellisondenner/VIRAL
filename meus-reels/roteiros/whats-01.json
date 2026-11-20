@@ -1,0 +1,13 @@
+{
+  "id": "whats-01",
+  "titulo_capa": "O cliente some depois do preço? Mude a sua resposta",
+  "cenas": [
+    { "tipo": "gancho", "texto": "O cliente não some por causa do preço. Some por causa de como você responde.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "Preço solto parece caro", "apoio": "\"R$ 180\" sozinho não diz nada. A pessoa compara com o bolo do mercado.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "Comece pelo que ela recebe", "apoio": "Tamanho, sabor, quantas fatias e o prazo de entrega.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "Depois, o valor", "apoio": "Com o contexto na frente, o preço parece justo, não caro.", "duracao": 3.5 },
+    { "tipo": "desenvolvimento", "texto": "Feche com uma pergunta", "apoio": "\"Posso reservar a sua data?\" faz a conversa andar.", "duracao": 4 },
+    { "tipo": "chamada", "texto": "Comente QUERO", "apoio": "Eu te mando o modelo de mensagem pronto para copiar.", "duracao": 3.5 }
+  ],
+  "legenda": "Mandou o preço e ficou no vácuo? 👀\n\nNa maioria das vezes o problema não é o valor, é a ordem da resposta.\n\n✔ Primeiro: tamanho, sabor, fatias e prazo\n✔ Depois: o preço\n✔ Por último: \"posso reservar a sua data?\"\n\nComente QUERO que eu te mando o modelo de mensagem pronto.\n\n#confeitaria #vendaspelowhatsapp #atendimento #confeiteira #empreendedorismofeminino"
+}

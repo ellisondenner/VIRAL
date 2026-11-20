@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bolo-01",
+    "tema": "Como calcular o preço de um bolo",
+    "duvida": "O que incluir no preço além dos ingredientes?",
+    "chamada": "Salve para usar na próxima encomenda"
+  },
+  {
+    "id": "whats-01",
+    "tema": "Como responder quem pergunta o preço no WhatsApp",
+    "duvida": "Por que o cliente some depois que eu mando o valor?",
+    "chamada": "Comente QUERO que eu te mando o modelo de mensagem"
+  },
+  {
+    "id": "agenda-01",
+    "tema": "Quantas encomendas aceitar por semana",
+    "duvida": "Como saber se estou aceitando encomendas demais?",
+    "chamada": "Siga o perfil para a parte 2 sobre agenda"
+  }
+]

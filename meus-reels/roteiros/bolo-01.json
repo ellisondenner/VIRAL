@@ -1,0 +1,14 @@
+{
+  "id": "bolo-01",
+  "titulo_capa": "O preço do seu bolo está errado (e não é culpa dos ingredientes)",
+  "cenas": [
+    { "tipo": "gancho", "texto": "Se você só soma os ingredientes, está pagando para trabalhar.", "duracao": 3.5 },
+    { "tipo": "desenvolvimento", "texto": "1. Ingredientes", "apoio": "Pese tudo o que entra na receita, até o confeito e a manteiga da forma.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "2. Embalagem", "apoio": "Caixa, base, fita, etiqueta e tag. Isso vira custo em todo pedido.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "3. Gás e energia", "apoio": "Forno ligado por 1 hora tem preço. Coloque uma parte em cada bolo.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "4. Suas horas", "apoio": "Defina quanto vale sua hora e multiplique pelo tempo da encomenda.", "duracao": 4 },
+    { "tipo": "desenvolvimento", "texto": "5. Margem de lucro", "apoio": "Por cima de tudo isso, some o lucro. Sem ele, não sobra para crescer.", "duracao": 4 },
+    { "tipo": "chamada", "texto": "Salve para usar na próxima encomenda", "apoio": "Custo + suas horas + lucro = preço justo.", "duracao": 3.5 }
+  ],
+  "legenda": "Ingrediente é só o começo do preço. 🎂\n\nAntes de passar o valor da próxima encomenda, confira se entraram:\n1. Ingredientes (pesados, não chutados)\n2. Embalagem completa\n3. Gás e energia\n4. As suas horas de trabalho\n5. A margem de lucro\n\nSe faltou algum, você está pagando para trabalhar.\n\nSalve este post para usar na próxima encomenda.\n\n#confeitaria #precificacao #bolodepote #confeitariaafetiva #empreendedorismofeminino"
+}
